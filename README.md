@@ -5,7 +5,8 @@ This Power BI dashboard analyzes the **Super Store Sales dataset** to provide in
 The goal is to track **business KPIs** and support decision-making for retail operations.
 
 ## 📊 Dashboard Preview
-![Super Store Dashboard](superstore sales.png)
+![Super Store Dashboard](<img width="724" height="407" alt="superstore sales" src="https://github.com/user-attachments/assets/abbe5830-6220-482e-b452-5fbd806f9a6d" />
+)
 
 ## 🗂 Dataset
 - **File**: `SuperStore Sales DataSet.xlsx`  
